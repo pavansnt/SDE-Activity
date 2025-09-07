@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Dsa_App",
+            "request": "launch",
+            "mainClass": "DSA.LinkedList.DoublyLinkedList.Dsa_App",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "Application",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "Rotate",
+            "request": "launch",
+            "mainClass": "Rotate",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "Dsa_App",
+            "request": "launch",
+            "mainClass": "Dsa_App",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "Bubble_sort",
+            "request": "launch",
+            "mainClass": "Bubble_sort",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "BuySell",
+            "request": "launch",
+            "mainClass": "BuySell",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "Application",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "removeSpace",
+            "request": "launch",
+            "mainClass": "removeSpace",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "printBinary",
+            "request": "launch",
+            "mainClass": "printBinary",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "MaxMinClass1",
+            "request": "launch",
+            "mainClass": "MaxMinClass1",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "countWords",
+            "request": "launch",
+            "mainClass": "countWords",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "CommonInArrays",
+            "request": "launch",
+            "mainClass": "CommonInArrays",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "FindUnique",
+            "request": "launch",
+            "mainClass": "FindUnique",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "SecondSmallest",
+            "request": "launch",
+            "mainClass": "SecondSmallest",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargest",
+            "request": "launch",
+            "mainClass": "SecondLargest",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "MergeArrays",
+            "request": "launch",
+            "mainClass": "MergeArrays",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Search",
+            "request": "launch",
+            "mainClass": "Binary_Search",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "Liner_Search",
+            "request": "launch",
+            "mainClass": "Liner_Search",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "MaxMinClass",
+            "request": "launch",
+            "mainClass": "MaxMinClass",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        },
+        {
+            "type": "java",
+            "name": "workshop1",
+            "request": "launch",
+            "mainClass": "workshop1",
+            "projectName": "JAVA PRACTICE_f4a0d97f"
+        }
+    ]
+}
