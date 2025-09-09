@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stack_Application",
+            "request": "launch",
+            "mainClass": "DSA.LinkedList.Stack.Stack_Application",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "Dsa_App",
+            "request": "launch",
+            "mainClass": "DSA.LinkedList.CircularLinkedList.Dsa_App",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
             "name": "Dsa_App",
             "request": "launch",
             "mainClass": "DSA.LinkedList.DoublyLinkedList.Dsa_App",

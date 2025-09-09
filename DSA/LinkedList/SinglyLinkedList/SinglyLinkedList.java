@@ -102,7 +102,7 @@ public class SinglyLinkedList {
             currentNode = currentNode.next;
         }
         currentNode.next = null;
-        System.out.println("Deletd node at End of List");
+        System.out.println("Deleted node at End of List");
     }
 
     public void SearchNode(int data){
