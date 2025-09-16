@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FileDemo",
+            "request": "launch",
+            "mainClass": "Files.FileDemo",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist",
+            "request": "launch",
+            "mainClass": "Arrays.Generics.Arraylist",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "BoxDemo",
+            "request": "launch",
+            "mainClass": "Arrays.Generics.BoxDemo",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "Queue_application",
+            "request": "launch",
+            "mainClass": "Queue.Queue_application",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "Starprint",
+            "request": "launch",
+            "mainClass": "LoopsAdvanced.Starprint",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "Starprint",
+            "request": "launch",
+            "mainClass": "Loops.Starprint",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
             "name": "Stack_Application",
             "request": "launch",
             "mainClass": "DSA.LinkedList.Stack.Stack_Application",

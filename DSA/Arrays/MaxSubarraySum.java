@@ -6,9 +6,9 @@ public class MaxSubarraySum{
 
         for( int i=0; i<array.length; i++)
         {   curr_sum += array[i];
-            if (curr_sum < 0)
-                curr_sum = 0;
             max_sum = Math.max(max_sum, curr_sum);
+            if (curr_sum < 0)
+                curr_sum = 0;  
         }
 
         System.out.println(max_sum);
