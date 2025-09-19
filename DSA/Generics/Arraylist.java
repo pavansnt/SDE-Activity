@@ -1,4 +1,4 @@
-package Arrays.Generics;
+package Generics;
 import java.util.ArrayList;
 import java.util.LinkedList;
 

@@ -1,4 +1,4 @@
-package Arrays.Generics;
+package Generics;
 
 public class BoxDemo {
     //generic Method

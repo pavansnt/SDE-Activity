@@ -1,4 +1,4 @@
-package DSA.LinkedList.DoublyLinkedList;
+package LinkedList.DoublyLinkedList;
 
 public class DoublyLinkedList {
     Node head;

@@ -1,4 +1,4 @@
-package DSA.LinkedList.DoublyLinkedList;
+package LinkedList.DoublyLinkedList;
 public class Dsa_App {
     public static void main(String[] args) {
         System.out.println("=== Running DLL Tests ===");

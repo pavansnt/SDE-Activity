@@ -1,4 +1,4 @@
-package Arrays.Generics;
+package Generics;
 
 //generic class
 public class Box<T> {

@@ -1,4 +1,4 @@
-package DSA.LinkedList.DoublyLinkedList;
+package LinkedList.DoublyLinkedList;
 
 public class Prob_ReverseDLL {
     public Node reverseDLL(Node head) {

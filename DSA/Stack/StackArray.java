@@ -1,4 +1,4 @@
-package DSA.LinkedList.Stack;
+package Stack;
 
 import java.util.Arrays;
 

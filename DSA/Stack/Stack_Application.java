@@ -1,4 +1,4 @@
-package DSA.LinkedList.Stack;
+package Stack;
 
 public class Stack_Application {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DSA.LinkedList.Stack;
+package Stack;
 
 public class StackList {
     private class Node{
