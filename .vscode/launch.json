@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExceptionHandling",
+            "request": "launch",
+            "mainClass": "Files.ExceptionHandling",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "FirstAndLastPosition",
+            "request": "launch",
+            "mainClass": "Arrays.BinarySearch.FirstAndLastPosition",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "FirstAndLastPosition",
+            "request": "launch",
+            "mainClass": "BinarySearch.FirstAndLastPosition",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "CeilingOfNumber",
+            "request": "launch",
+            "mainClass": "BinarySearch.CeilingOfNumber",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "FloorOfNumber",
+            "request": "launch",
+            "mainClass": "BinarySearch.FloorOfNumber",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "Ceiling",
+            "request": "launch",
+            "mainClass": "BinarySearch.Ceiling",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch.BinarySearch",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "EvenDIgits",
+            "request": "launch",
+            "mainClass": "LinearSearch.EvenDIgits",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "SearchIn2D",
+            "request": "launch",
+            "mainClass": "LinearSearch.SearchIn2D",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "searchMinMax",
+            "request": "launch",
+            "mainClass": "LinearSearch.searchMinMax",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "searchInRange",
+            "request": "launch",
+            "mainClass": "LinearSearch.searchInRange",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "CharSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch.CharSearch",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "TrapWater",
+            "request": "launch",
+            "mainClass": "TrapWater",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
+            "name": "recusion2",
+            "request": "launch",
+            "mainClass": "LoopsAdvanced.recusion2",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
             "name": "HashSetDemo",
             "request": "launch",
             "mainClass": "Generics.HashSetDemo",

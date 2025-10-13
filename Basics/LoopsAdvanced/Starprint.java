@@ -147,7 +147,7 @@ public class Starprint{
                 {
                     line.append(" *");
                 }
-
+                
                 else
                 {
                     line.append("  ");

@@ -1,3 +1,4 @@
+package LinearSearch;
 public class LinearSearch {
     public static int search(String[] arr, String target)
     {   
