@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "networkCalls",
+            "request": "launch",
+            "mainClass": "CN.networkCalls",
+            "projectName": "PCS_79064846"
+        },
+        {
+            "type": "java",
             "name": "ExceptionHandling",
             "request": "launch",
             "mainClass": "Files.ExceptionHandling",
