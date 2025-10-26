@@ -3,7 +3,7 @@ package CN;
 import java.net.http.*;
 import java.net.URI;
 
-public class networkCalls {
+public class NetworkCalls {
     public static void main(String[] args) throws Exception{
         System.out.println("Namaskara");
         makeAHTTPRequestPrintResponse();
@@ -17,6 +17,9 @@ public class networkCalls {
         System.out.println("Headers: " + resp.headers());
         System.out.println("Body: " + resp.body().substring(0, 120));
 
+        // HttpClient (client) = the caller/phone (sends the request),
+        // HttpRequest (req) = what you ask for (the message you place on the call),
+        // HttpResponse (resp) = what the server answers.
     }
 
 }
